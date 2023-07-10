@@ -1,2 +1,2 @@
 # jun_demo
-git学习过程成
+git学习
